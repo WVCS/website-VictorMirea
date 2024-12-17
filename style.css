@@ -1,3 +1,22 @@
 body {
+  background-color:#F08700
+  
+}
 
+h2 {
+ font-size:300%;
+  text-decoration: underline yellow wavy;
+   letter-spacing: 3px;
+  
+}
+h2:hover {
+   text-shadow: 3px 3px 15px;
+  
+}
+img {
+  border-radius: 50%;
+}
+img:hover {
+  border: yellow dotted 8px;
+  
 }
